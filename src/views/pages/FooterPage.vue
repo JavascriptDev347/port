@@ -7,11 +7,9 @@
         </div>
         <div class="col-sm-6">
           <ul class="social-link pull-right">
-            <li><a href="#0"><i class="fa fa-google-plus"></i></a></li>
-            <li><a href="#0"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#0"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#0"><i class="fa fa-linkedin"></i></a></li>
-            <li><a href="#0"><i class="fa fa-pinterest"></i></a></li>
+            <li><a href="https://javascriptdev347@gmail.com"><i class="fa fa-google-plus"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/rustambek-eshbo-riyev-636626242/"><i class="fa fa-linkedin"></i></a></li>
+
           </ul>
         </div>
       </div>
